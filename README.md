@@ -1,5 +1,3 @@
-<h1>Amigo-secreto</h1>
-
 # Amigo Secreto [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Una aplicación web interactiva que permite ingresar nombres de amigos y realizar un sorteo aleatorio para determinar el **"amigo secreto"**. Ideal para organizar juegos y dinámicas en reuniones o fiestas.
